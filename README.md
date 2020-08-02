@@ -62,9 +62,13 @@
  
 - **Have a look on my [portfolio](https://mahede182.github.io/) .**
 
-<img alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=E3AE57&bg_color=DC3D24" />
+<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=DC3D24" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahede182&theme=dark&hide_langs_below=1&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=DC3D24" />
 <br/>
+
+
+
 
 
 ### :handshake: Always happy to help!
