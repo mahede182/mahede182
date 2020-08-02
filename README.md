@@ -1,23 +1,20 @@
-### Hi there, I'm Mahede [codeSTACKr][website] 👋
+### Hi there, I'm Mahede Hasan 👋
 
-## I'm a Lerner , Developer, and Student!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm a Developer and Student!
+- 🔭 I’m currently working on a [Freelancer.com](https://www.freelancer.com/u/mahedeobject)!
+- 🌱 I’m currently learning WebDevelopement
 - 🤔 I’m looking for help with jobs/intern.
-- 📫 How to reach me: Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@SauravPaul&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)
- [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@SauravPaul&logo=facebook&style=flat&color=blue)](https://www.facebook.com/sauravpaul.sunny)
+- 📫 How to reach me: Connect with me on ![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)
+ ![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to watching and play Football/Cricket.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -60,16 +57,12 @@
 - **Algorithms** , **Data-structures**
 
 - **Operating System**: `Windows`
-  
-<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&show_icons=true&hide_border=true" />
 
-[website]: https://github.com
+ <br/>
+ 
+- **Have a look on my [portfolio](https://mahede182.github.io/) .**
+
+<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 [facebook]: https://facebook.com/md.sikder182
-[twitter]: https://twitter.com/#
-[youtube]: https://youtube.com/#
-[instagram]: https://instagram.com/#
-[linkedin]: https://linkedin.com/in/#
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/md-mahede-567b6418b/
