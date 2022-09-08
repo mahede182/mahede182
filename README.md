@@ -1,10 +1,13 @@
-### Hi there, I'm Mahede Hasan 👋
+### Hi there, I'm Md. Mahede Hasan 👋
 
-## I'm a Developer and Student!
+## I'm a Developer  and Student!
+
+<img src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
+
 - 🔭 I’m currently working on a [Freelancer.com](https://www.freelancer.com/u/mahedeobject)!
 - 🌱 I’m currently learning WebDevelopement
 - 🤔 I’m looking for help with jobs/intern.
-- 📫 How to reach me: Connect with me on ![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)
+- 📫 How to reach me: Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)]([linkledin])
  ![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
