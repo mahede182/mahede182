@@ -66,8 +66,8 @@
 - **Algorithms** , **Data-structures**
 
 - **Operating System**: `Windows`,`Linux`
- 
-- **Have a look on my [portfolio](https://mahede182.github.io/) <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="45px"/>**
+
+- **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>](https://mahede182.github.io/)
 
 ### :fire: My Stats :
 
@@ -86,8 +86,7 @@
 ### :handshake: Always happy to help!
 
 
-Thank you :hugs: so much for visiting my tiny space on [GitHub](https://github.com/mahede182)! :v:
-
+Thank you :hugs: so much for visiting my tiny space on [<img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/mahede182) [GitHub!](https://github.com/mahede182) :v: 
 <br/>
 
 [facebook]: https://facebook.com/md.sikder182
