@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
 
-## I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Student!
+## I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> and Student!
 
 - 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs/intern.
@@ -15,11 +15,13 @@
 ### Connect with me:
 
 
-[<img align="left" alt="md.sikder182 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Mahede | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mahede182 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Mahede | Sololearn" width="22px" src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" />][sololearn]
-[<img align="left" alt="Mahedeobject | Freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][freelancer]
+[<img align="left" alt="md.sikder182 | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mahede | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mahede182 | Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Mahede | Sololearn" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" />][sololearn]
+[<img align="left" alt="Mahedeobject | Freelancer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][freelancer]
+[<img align="left" alt="Mahedeobject | Codeforces" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Mahede | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 <br />
@@ -49,27 +51,32 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `java`,`python`,`C`, `HTML / CSS / JS / PHP`
+- **Languages**: `JavaScript`,`C`,`java`,`python`
 
-- **Databases**: `MySQL`,`Oracle`
+- **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Blockchain(Ethereum, Truffle)`
+
+- **Databases**: `MySQL`,`Oracle`,`Firebase`
 
 - **Concept**: `Object Oriented Programming`,`Design Pattern`
 
-- **Frameworks**: `NodeJs`,`JQuery`,`Bootstrap` 
+- **Frameworks**: `NodeJs`,`Bootstrap`,`Reactstrap`,`Ant-design`,`Material UI` 
 
-- **Competitive Programming**
+- **Competitive Programming** `Codeforces`
     
 - **Algorithms** , **Data-structures**
 
-- **Operating System**: `Windows`
-
- <br/>
+- **Operating System**: `Windows`,`Linux`
  
-- **Have a look on my [portfolio](https://mahede182.github.io/) .**
+- **Have a look on my [portfolio](https://mahede182.github.io/) <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="45px"/>**
 
-<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=DC3D24" />
+### :fire: My Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahede182&theme=dark&hide_langs_below=1&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=DC3D24" />
+<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahede182&theme=dark&hide_langs_below=1&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
+
 <br/>
 
 
