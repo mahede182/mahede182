@@ -1,23 +1,25 @@
 ### Hi there, I'm Md. Mahede Hasan 👋
 
-## I'm a Developer  and Student!
-
 <img src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I’m currently working on a [Freelancer.com](https://www.freelancer.com/u/mahedeobject)!
-- 🌱 I’m currently learning WebDevelopement
+## I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Student!
+
+- 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs/intern.
-- 📫 How to reach me: Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)]([linkledin])
- ![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watching and play Football/Cricket.
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)](https://www.linkedin.com/in/md-mahede-567b6418b/)
+ [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)](https://facebook.com/md.sikder182)
+- 👯 I’m looking to collaborate with other programmer
+- 🧲 2022 Goals: Learning Full-stack WebDevelopement
+- 😼 Fun fact: I love Kitten.
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="md.sikder182 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mahede | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mahede182 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Mahede | Sololearn" width="22px" src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" />][sololearn]
+[<img align="left" alt="Mahedeobject | Freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][freelancer]
 
 <br />
 
@@ -83,4 +85,8 @@ Thank you :hugs: so much for visiting my tiny space on [GitHub](https://github.c
 
 [facebook]: https://facebook.com/md.sikder182
 [linkedin]: https://www.linkedin.com/in/md-mahede-567b6418b/
-
+[stackoverflow]: https://stackoverflow.com/users/14017379/md-mahede-hasan
+[sololearn]: https://www.sololearn.com/profile/11112121
+[medium]: https://medium.com/@mahede.object
+[codeforces]: https://codeforces.com/profile/mahede
+[Freelancer]: https://www.freelancer.com/u/mahedeobject
