@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
 
-## I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> and Student!
+## I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">&nbsp; and Student!
 
 - 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs/intern.
