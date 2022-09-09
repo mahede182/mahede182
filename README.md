@@ -51,7 +51,7 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `JavaScript`,`C`,`java`,`python`
+- **Languages**: `JavaScript`,`C`,`java`,`python`,`silidity`
 
 - **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Blockchain(Ethereum, Truffle)`
 
