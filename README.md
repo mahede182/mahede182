@@ -53,17 +53,17 @@
 
 - **Languages**: `JavaScript`,`C`,`java`,`python`,`silidity`
 
-- **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Blockchain(Ethereum, Truffle)`
+- **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Backend(Node)` , `Blockchain(Ethereum, Truffle)` , `CMS(Wordpress`
 
-- **Databases**: `MySQL`,`Oracle`,`Firebase`
+- **Databases**: `MySQL`,`Oracle`,`Mongodb`,`Firebase`
 
 - **Concept**: `Object Oriented Programming`,`Design Pattern`
 
-- **Frameworks**: `NodeJs`,`Bootstrap`,`Reactstrap`,`Ant-design`,`Material UI` 
+- **Frameworks**: `Bootstrap`,`Reactstrap`,`Ant-design`,`Material UI` 
 
-- **Competitive Programming** `Codeforces`
+- **Competitive Programming** `Codeforces` , `UVA`, `HackerRank`
     
-- **Algorithms** , **Data-structures**
+- **Algorithms** , **Data-structures** , **Design Pattern** , **SDLC**
 
 - **Operating System**: `Windows`,`Linux`
 
@@ -71,16 +71,13 @@
 
 ### :fire: My Stats :
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahede182&theme=xcode&layout=compact&radius=5) 
+
 <img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahede182&theme=dark&hide_langs_below=1&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
-
-<br/>
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahede182&theme=dark&hide_langs_below=1&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" /> ![Github Trophy](https://github-profile-trophy.vercel.app/?username=mahede182&theme=theme_name)
 
 
 ### :handshake: Always happy to help!
