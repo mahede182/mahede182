@@ -9,7 +9,7 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)](https://www.linkedin.com/in/md-mahede-567b6418b/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)](https://facebook.com/md.sikder182)
 - 👯 I’m looking to collaborate with other programmer
-- 🧲 2022 Goals: Learning Full-stack WebDevelopement
+- 🧲 2023 Goals: Learning React Native
 - 😼 Fun fact: I love Kitten.
 
 ### Connect with me:
@@ -32,6 +32,7 @@
 <img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React Native" width="92px" src="https://beecrowd.io/wp-content/uploads/2022/04/React-Fundo.png" />
 <img align="left" alt="Redux" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redux.svg" />
 <img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -39,12 +40,13 @@
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Wordpress" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
 <br />
+
+
+
 <br />
 
 ---
@@ -53,21 +55,21 @@
 
 - **Languages**: `JavaScript`,`C`,`java`,`python`,`silidity`
 
-- **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Backend(Node)` , `Blockchain(Ethereum, Truffle)` , `CMS(Wordpress`
+- **Technology**: `Front-end(HTML,CSS,JavaScript,ReactJS)`, `Backend(NodeJs, BAAS as Firebase)` , `Mobile(React Native`), `Blockchain(Ethereum, Truffle)` , `CMS(Wordpress`
 
 - **Databases**: `MySQL`,`Oracle`,`Mongodb`,`Firebase`
 
 - **Concept**: `Object Oriented Programming`,`Design Pattern`
 
-- **Frameworks**: `Bootstrap`,`Reactstrap`,`Ant-design`,`Material UI` 
+- **Frameworks & Libraries**: `Redux`,`Bootstrap`,`Reactstrap`,`Ant-design`,`Material UI`
 
 - **Competitive Programming** `Codeforces` , `UVA`, `HackerRank`
     
 - **Algorithms** , **Data-structures** , **Design Pattern** , **SDLC**
 
-- **Operating System**: `Windows`,`Linux`
+- **Operating System**: `MacOs`,`Linux`
 
-- **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>](https://mahede182.github.io/)
+- **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px"/>](https://mahede182.github.io/)
 
 ### :fire: My Stats :
 
