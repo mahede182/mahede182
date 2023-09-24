@@ -30,14 +30,13 @@
 
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="92px" src="https://beecrowd.io/wp-content/uploads/2022/04/React-Fundo.png" />
 <img align="left" alt="Redux" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redux.svg" />
 <img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Jira" width="46px" src="https://github.com/mahede182/mahede182/assets/53116487/68d94677-a6fa-4720-a23f-a878a4cbe4ee" />
 <img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Python" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
