@@ -77,7 +77,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333)](https://git.io/streak-stats)
 
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14017379)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14017379)](https://stackoverflow.com/users/14017379/md-mahede-hasan)
 
 ### :handshake: Always happy to help!
 
