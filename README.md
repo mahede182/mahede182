@@ -1,6 +1,8 @@
-### Hey, I'm Md. Mahede Hasan 👋
+### Hey, I am
 
-<img src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mahede_hasan👋&text2=react&width=800&height=200" alt=""/>  
+<img align="right" src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
+
 
 ## I'm a Developer and Tech Enthusisists!
 
@@ -13,7 +15,6 @@
 - 😼 Fun fact: I love Kitten.
 
 ### Connect with me:
-
 
 [<img align="left" alt="md.sikder182 | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Mahede | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -87,20 +88,19 @@
 - **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px"/>](https://mahede182.github.io/)
 
 ### :fire: My Stats :
+<div style="diplay: flex; align-item: center;">
+ <img alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
+ <img alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
+ <img alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
+</div>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mahede182)
 
-<img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333)](https://git.io/streak-stats)
-
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14017379)](https://stackoverflow.com/users/14017379/md-mahede-hasan)
-
-#### 🍴🥘 One things :
+#### :idea: One things :
 
 ----
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center)](https://github.com/piyushsuthar/github-readme-quotes)
+<img width="700" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
+
 
 ### :handshake: Always happy to help!
 
