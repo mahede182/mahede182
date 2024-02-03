@@ -79,6 +79,12 @@
 
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14017379)](https://stackoverflow.com/users/14017379/md-mahede-hasan)
 
+#### 🍴🥘 One things :
+
+----
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### :handshake: Always happy to help!
 
 
