@@ -90,13 +90,13 @@
 ### :fire: My Stats :
 <div style="diplay: flex; align-item: flex-start;">
  <img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
- <img align="left" alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
- <img align="left" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" /> 
- <img align="left" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
+ <img align="right" alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
+ <img align="right" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" /> 
+ <img align="center" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
 </div>
 
 
-#### :idea: One things :
+#### :idea: One things :  
 
 ----
 
