@@ -28,25 +28,25 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React Native" width="92px" src="https://beecrowd.io/wp-content/uploads/2022/04/React-Fundo.png" />
-<img align="left" alt="Redux" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redux.svg" />
-<img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg" />
-<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Jira" width="46px" src="https://github.com/mahede182/mahede182/assets/53116487/68d94677-a6fa-4720-a23f-a878a4cbe4ee" />
-<img align="left" alt="Java" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<div style="display: flex; align-items: flex-start;">
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
+ <img src="https://beecrowd.io/wp-content/uploads/2022/04/React-Fundo.png" alt="React Native" width="92px" height="50px"/>
+ <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65" />
+ <img src="https://github.com/mahede182/mahede182/assets/53116487/5dab4945-0842-4d24-a8cb-bfc0ad5a901a" alt="Node.js" width="65" height="65"/>
+ <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
+ <img alt="Jira" src="https://github.com/mahede182/mahede182/assets/53116487/68d94677-a6fa-4720-a23f-a878a4cbe4ee" height="35px" width="75px"/>
+</div>
+
+----
 
 <br />
-
-
-
-<br />
-
----
 
 ### :gear: My skills include:
 
