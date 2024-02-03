@@ -42,6 +42,7 @@
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
  <img alt="Jira" src="https://github.com/mahede182/mahede182/assets/53116487/68d94677-a6fa-4720-a23f-a878a4cbe4ee" height="35px" width="75px"/>
+
 </div>
 
 ----
