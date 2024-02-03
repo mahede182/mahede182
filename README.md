@@ -88,10 +88,11 @@
 - **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px"/>](https://mahede182.github.io/)
 
 ### :fire: My Stats :
-<div style="diplay: flex; align-item: center;">
- <img alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
- <img alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
- <img alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
+<div style="diplay: flex; align-item: flex-start;">
+ <img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
+ <img align="left" alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
+ <img align="left" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" /> 
+ <img align="left" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
 </div>
 
 
@@ -99,7 +100,7 @@
 
 ----
 
-<img width="700" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
+<img align="center" width="800" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
 
 
 ### :handshake: Always happy to help!
