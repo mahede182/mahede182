@@ -6,6 +6,8 @@
 
 ## I'm a Developer and Tech Enthusisists!
 
+<img align="right" src="https://api.daily.dev/devcards/04621384ac2844dd845761de0a3faec6.png?r=nmj" width="200" alt="Dev Card"/>
+
 - 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)](https://www.linkedin.com/in/md-mahede-567b6418b/)
@@ -13,7 +15,7 @@
 - 👯 I’m looking to collaborate with other programmer
 - 🧲 2024 Goals: To become a highly paid software engineer.
 - 😼 Fun fact: I love Kitten.
-
+  
 ### Connect with me:
 
 [<img align="left" alt="md.sikder182 | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
