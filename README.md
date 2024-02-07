@@ -6,7 +6,7 @@
 
 ## I'm a Developer and Tech Enthusisists!
 
-<img align="right" src="https://api.daily.dev/devcards/04621384ac2844dd845761de0a3faec6.png?r=nmj" width="200" alt="Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/04621384ac2844dd845761de0a3faec6.png?r=g7f" width="200" alt="Dev Card"/>
 
 - 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs.
