@@ -1,8 +1,11 @@
 ### Hey, I am
 
-<img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mahede_hasan👋&text2=react&width=800&height=200" alt=""/>  
-<img align="right" src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt=""/>
+<img align="right" src="https://komarev.com/ghpvc/?username=Mahede182&style=flat-square&color=blue" alt="profle_view"/>
 
+<br />
+
+<img align="right" src="https://media1.tenor.com/m/ZaJTX3y8n7oAAAAd/minions-bleh.gif" width="220" height="120" alt="KittyGif"/>
+<img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mahede_hasan👋&text2=react&width=500&height=110" alt=""/>  
 
 ## I'm a Developer and Tech Enthusisists!
 
@@ -99,11 +102,11 @@
 </div>
 
 
-#### :idea: One things :  
+#### 🛋️ One things :  
 
 ----
 
-<img align="center" width="800" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
+<img align="center" width="600" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
 
 
 ### :handshake: Always happy to help!
