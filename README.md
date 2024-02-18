@@ -5,7 +5,7 @@
 <br />
 
 <img align="right" src="https://media1.tenor.com/m/ZaJTX3y8n7oAAAAd/minions-bleh.gif" width="220" height="120" alt="KittyGif"/>
-<img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mahede_hasan👋&text2=react&width=500&height=110" alt=""/>  
+<img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mahede_hasan👋&text2=react&width=420&height=100" alt=""/>  
 
 ## I'm a Developer and Tech Enthusisists!
 
