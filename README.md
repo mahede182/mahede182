@@ -9,8 +9,9 @@
 
 ## I'm a Developer and Tech Enthusisists!
 
-<img align="right" src="https://github.com/mahede182/mahede182/blob/master/devcard.svg" width="200" alt="Dev Card"/>
+<!-- <img align="right" src="https://github.com/mahede182/mahede182/blob/master/devcard.svg" width="200" alt="Dev Card"/> -->
 
+<img align="right" src="https://api.daily.dev/devcards/v2/n08HqVKlhgAOshMBt7KVs.png?type=default&r=7eg" width="250" alt="Md. Mahede hasan's Dev Card"/>
 
 - 💪 I’m Self-learner, Hard-worker, Self-motivated. 
 - 🤔 I’m looking for help with jobs.
