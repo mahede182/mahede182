@@ -304,7 +304,7 @@ img {
 .home__social{
   display: grid;
   grid-template-columns: max-content;
-  row-gap: 1rem;
+  row-gap: 1.25rem;
 }
 
 .home__social-icon{
@@ -1188,4 +1188,128 @@ img {
   
 }
 
-/* For large devices */
+/*==================== WORK SECTION ====================*/
+.work__section {
+  padding: 2rem 0;
+  position: relative;
+}
+
+.section__title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.work__timeline {
+  position: relative;
+  padding-left: 2rem;
+  border-left: 2px solid var(--first-color);
+}
+
+.work__block {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.work__circle {
+  width: 15px;
+  height: 15px;
+  background-color: var(--first-color);
+  border-radius: 50%;
+  position: absolute;
+  left: -8px;
+  top: 0;
+  border: 3px solid #fff;
+}
+
+.work__content {
+  background-color: var(--container-color);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.work__content:hover {
+  transform: translateX(10px);
+}
+
+.work__job-title {
+  font-size: var(--h3-font-size);
+  color: var(--title-color);
+}
+
+.work__role {
+  font-size: var(--body-font);
+  color: var(--title-color);
+}
+
+.work__duration {
+  font-size: var(--small-font-size);
+  color: var(--first-color);
+  margin-bottom: 0.5rem;
+}
+
+.work__company {
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.work__description {
+  font-size: var(--normal-font-size);
+  color: var(--first-color-lighter);
+}
+.work__responsibilities {
+  margin-top: 0.5rem;
+  padding-left: 1rem;
+}
+
+.work__responsibilities li {
+  font-size: var(--normal-font-size);
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+  list-style-type: disc;
+}
+
+@media (min-width: 768px) {
+  .work__timeline {
+      padding-left: 4rem;
+  }
+
+  .work__circle {
+      left: -17px;
+  }
+
+  .work__content {
+      padding: 1.5rem;
+  }
+}
+
+/* ====== icon hover name show effect ===== */
+.home__social-icon {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.social-text {
+  position: absolute;
+  bottom: -20px; /* Adjust based on your specific layout */
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+  color: var(--title-color); /* Adjust the color as needed */
+  background-color: var(--first-color-lighter); /* Optional: for better visibility */
+  padding: 2px 6px; /* Small padding around the text */
+  border-radius: 4px; /* Rounded corners for the tooltip */
+  font-size: var(--small-font-size);
+}
+
+.home__social-icon:hover .social-text {
+  visibility: visible;
+  opacity: 1;
+}
