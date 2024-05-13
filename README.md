@@ -13,11 +13,11 @@
 
 <img align="right" src="https://api.daily.dev/devcards/v2/n08HqVKlhgAOshMBt7KVs.png?type=default&r=7eg" width="250" alt="Md. Mahede hasan's Dev Card"/>
 
-- 💪 I’m Self-learner, Hard-worker, Self-motivated. 
-- 🤔 I’m looking for help with jobs.
+- 💪 I'm Self-learner, Hard-worker, Self-motivated. 
+- 🤔 I'm looking for help with jobs.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Mahede&logo=linkedin&style=flat&color=#191919)](https://www.linkedin.com/in/md-mahede-567b6418b/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@MhMahede&logo=facebook&style=flat&color=#333)](https://facebook.com/md.sikder182)
-- 👯 I’m looking to collaborate with other programmer
+- 👯 I'm looking to collaborate with other programmer
 - 🧲 2024 Goals: To become a highly paid software engineer.
 - 😼 Fun fact: I love Kitten.
   
@@ -95,11 +95,17 @@
 - **Have a look on my [portfolio](https://mahede182.github.io/)** [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60px"/>](https://mahede182.github.io/)
 
 ### :fire: My Stats :
-<div style="diplay: flex; align-item: flex-start;">
- <img align="left" alt="mahede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahede182&&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" />
- <img align="right" alt="stats-git" src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333"/>
- <img align="right" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" /> 
- <img align="center" alt="stats-git" src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
+    <div style="flex: 1; min-width: 300px; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahede182&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" alt="mahede's Github Stats" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 1; min-width: 300px; margin: 10px;">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333" alt="stats-git" style="width: 100%; height: auto;" />
+    </div>
+    <div style="flex: 1; min-width: 300px; margin: 10px;">
+        <img src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" alt="stats-git" style="width: 100%; height: auto;" />
+    </div>
 </div>
 
 
