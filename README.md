@@ -97,9 +97,9 @@
 ### :fire: My Stats :
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-    <div style="flex: 1; min-width: 300px; margin: 10px;">
+<!--     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=mahede182&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" alt="mahede's Github Stats" style="width: 100%; height: auto;" />
-    </div>
+    </div> -->
     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333" alt="stats-git" style="width: 100%; height: auto;" />
     </div>
