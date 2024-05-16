@@ -37,7 +37,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display: flex; align-items: flex-start;" align="center">
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+<!--  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" /> -->
  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65" />
@@ -45,7 +45,7 @@
  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
+<!--  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" /> -->
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
 </div>
 
@@ -97,9 +97,9 @@
 ### :fire: My Stats :
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-    <div style="flex: 1; min-width: 300px; margin: 10px;">
+<!--     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=mahede182&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" alt="mahede's Github Stats" style="width: 100%; height: auto;" />
-    </div>
+    </div> -->
     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333" alt="stats-git" style="width: 100%; height: auto;" />
     </div>
