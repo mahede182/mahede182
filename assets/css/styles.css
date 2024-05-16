@@ -346,6 +346,9 @@ img {
 
 .home__scroll{
   /* display: none; */
+  /* align-items: flex-end; */
+  /* align-self: flex-end; */
+  text-align: right;
 }
 
 .home__scroll-button{
