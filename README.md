@@ -106,6 +106,9 @@
     <div style="flex: 1; min-width: 300px; margin: 10px;">
         <img src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" alt="stats-git" style="width: 100%; height: auto;" />
     </div>
+ <div style="flex: 1; min-width: 300px; margin: 10px;">
+        <img src="https://leetcode.card.workers.dev/mahede?theme=dark&font=baloo&extension=null" alt="stats-git" style="width: 100%; height: auto;" />
+    </div>
 </div>
 
 
