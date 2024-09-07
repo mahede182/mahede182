@@ -41,7 +41,6 @@
  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65" />
- <img src="https://github.com/mahede182/mahede182/assets/53116487/5dab4945-0842-4d24-a8cb-bfc0ad5a901a" alt="Node.js" width="65" height="65"/>
  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
@@ -96,20 +95,16 @@
 
 ### :fire: My Stats :
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-<!--     <div style="flex: 1; min-width: 300px; margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahede182&show_icons=true&title_color=ffffff&icon_color=232B2B&text_color=ddd&bg_color=333333" alt="mahede's Github Stats" style="width: 100%; height: auto;" />
-    </div> -->
-    <div style="flex: 1; min-width: 300px; margin: 10px;">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=333333" alt="stats-git" style="width: 100%; height: auto;" />
-    </div>
-    <div style="flex: 1; min-width: 300px; margin: 10px;">
-        <img src="https://so-stats-kurt-liao.vercel.app/api?user=14017379" alt="stats-git" style="width: 100%; height: auto;" />
-    </div>
- <div style="flex: 1; min-width: 300px; margin: 10px;">
-        <img src="https://leetcode.card.workers.dev/mahede?theme=dark&font=baloo&extension=null" alt="stats-git" style="width: 100%; height: auto;" />
-    </div>
-</div>
+![Github Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=mahede182&theme=dark&background=000000)
+![StackOverflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=14017379)
+<img src="https://leetcode.card.workers.dev/mahede?theme=unicorn&font=milonga" alt="LeetCode Stats" style="width:95%;height:auto"/>
+
+#### 📖 Recent articles from Medium
+
+<a target="_blank" href="https://medium-story.vercel.app/api?username=@mahede.object&is_link=true">
+ <img src="https://medium-story.vercel.app/api?username=@s09001">
+</a>
+
 
 
 #### 🛋️ One things :  
