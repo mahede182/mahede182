@@ -107,13 +107,6 @@
 
 
 
-#### 🛋️ One things :  
-
-----
-
-<img align="center" width="600" align="center" alt="qoutes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=false&align=center" />
-
-
 ### :handshake: Always happy to help!
 
 
