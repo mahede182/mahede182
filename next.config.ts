@@ -6,9 +6,7 @@ const nextConfig: NextConfig = {
   compress: true,
   reactStrictMode: true,
   experimental: {
-    optimizePackageImports: ["react-icons", "framer-motion"],
-    useDeploymentId: true,
-    useDeploymentIdServerActions: true 
+    optimizePackageImports: ["react-icons", "framer-motion"]
   },
 };
 
