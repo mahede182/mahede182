@@ -30,7 +30,7 @@ export const ExperienceSection = React.memo(function ExperienceSection() {
             <span className="absolute -left-[41px] top-0 h-5 w-5 rounded-full bg-slate-950 border-2 border-primary" />
 
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2">
-              <h3 className="text-xl font-bold text-slate-100">{exp.role}</h3>
+              <h3 className="text-xl font-bold foreground">{exp.role}</h3>
               <span className="text-sm text-primary font-medium bg-primary/10 px-3 py-1 rounded-full w-fit mt-2 sm:mt-0">
                 {exp.period}
               </span>
@@ -39,7 +39,7 @@ export const ExperienceSection = React.memo(function ExperienceSection() {
             <div className="flex items-center gap-2 mb-4 text-slate-400">
               <TbBriefcase size={16} />
               <span className="font-medium">{exp.company}</span>
-              <CiLocationOn size={16}/>
+              <CiLocationOn size={16} />
               <span className="font-medium">{exp.location}</span>
             </div>
 
