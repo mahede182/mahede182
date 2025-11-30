@@ -7,11 +7,14 @@ import { motion } from "framer-motion";
 import { TbMenu2, TbX } from "react-icons/tb";
 import { portfolioData } from "~/constants/portfolio.data";
 import { navLinks } from "~/constants/nav.data";
+import { useScrollTo } from "~/hooks/useScrollTo";
+import { ThemeToggle } from "~/components/theme/ThemeToggle";
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("");
+  const scrollTo = useScrollTo();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -61,12 +64,7 @@ export function Navbar() {
   ) => {
     e.preventDefault();
     const targetId = href.replace("#", "");
-    const element = document.getElementById(targetId);
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" });
-      // Prevent hash from appearing in URL
-      window.history.replaceState(null, "", window.location.pathname);
-    }
+    scrollTo(targetId);
     if (isMobileMenuOpen) {
       setIsMobileMenuOpen(false);
     }
@@ -77,7 +75,7 @@ export function Navbar() {
       className={cn(
         "fixed top-0 w-full z-50 transition-all duration-300 border-b border-transparent",
         isScrolled
-          ? "bg-slate-950/80 backdrop-blur-md border-white/5 shadow-sm"
+          ? "bg-background backdrop-blur-md border-white/5 shadow-sm"
           : "bg-transparent"
       )}
     >
@@ -87,7 +85,7 @@ export function Navbar() {
           onClick={(e) => handleNavClick(e, "#about")}
           className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent"
         >
-          Mahede<span className="text-white"> Hasan</span>.
+          Mahede<span className="text-foreground"> Hasan</span>.
         </Link>
 
         {/* Desktop Nav */}
@@ -127,6 +125,7 @@ export function Navbar() {
               Blog
             </a>
           )}
+          <ThemeToggle />
         </nav>
 
         {/* Mobile Menu Toggle */}
@@ -157,7 +156,7 @@ export function Navbar() {
                     "text-lg font-medium transition-colors",
                     isActive
                       ? "text-primary"
-                      : "text-slate-300 hover:text-primary"
+                      : "text-heading hover:text-primary"
                   )}
                   onClick={(e) => handleNavClick(e, link.href)}
                 >
@@ -176,6 +175,9 @@ export function Navbar() {
                 Blog
               </a>
             )}
+            <div className="pt-4 border-t border-slate-800/50 flex justify-start">
+              <ThemeToggle />
+            </div>
           </nav>
         </motion.div>
       )}

@@ -20,7 +20,7 @@ export const ProjectCard = React.memo(function ProjectCard({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay: index * 0.1 }}
-      className="group relative bg-slate-800/30 rounded-2xl overflow-hidden border border-slate-800 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/10 transition-all duration-300 hover:-translate-y-2 flex flex-col"
+      className="group relative background rounded-2xl overflow-hidden border border-slate-800 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/10 transition-all duration-300 hover:-translate-y-2 flex flex-col"
     >
       {/* Image Container */}
       <div className="relative aspect-video w-full overflow-hidden flex-shrink-0">

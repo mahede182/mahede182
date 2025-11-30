@@ -82,7 +82,7 @@ export const portfolioData: PortfolioData = {
         "Implemented push notification system for Android and iOS, enhancing user engagement by 20% .",
         "Successfully developed and deployed 7+ mobile apps to the Play Store and App Store , reaching a broad user base.",
         "Designed for 32\" Phablet devices and implement responsive design to accommodate multiple languages, including Arabic and Bangla .",
-        "Involvedinrequirementgathering,analysis,anddesignastheapplicationwasstartedfromscratch.",
+        "Involved in requirement gathering, analysis, and design as the application was started from scratch.",
       ],
     },
   ],

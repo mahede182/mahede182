@@ -1,9 +1,58 @@
 @import "tailwindcss";
 
 :root {
+  /* Light Mode Defaults */
+  --background: #ffffff;
+  --foreground: #0f172a;
+  /* Slate 900 */
+
+  /* Text Colors - Light Mode */
+  --text-heading: #1e293b;
+  /* Slate 800 */
+  --text-body: #475569;
+  /* Slate 600 */
+  --text-muted: #64748b;
+  /* Slate 500 */
+  --text-subtle: #94a3b8;
+  /* Slate 400 */
+
+  /* Border Colors - Light Mode */
+  --border: #e2e8f0;
+  /* Slate 200 */
+  --border-subtle: #f1f5f9;
+  /* Slate 100 */
+
+  /* Modern Professional Palette - Teal & Sky */
+  --primary: #0d9488;
+  /* Teal 600 - Darker for light mode contrast */
+  --secondary: #0284c7;
+  /* Sky 600 */
+  --accent: #e11d48;
+  /* Rose 600 */
+
+  scroll-behavior: smooth;
+}
+
+.dark {
   /* Deep rich dark tones - Slate 950 base */
   --background: #020617;
   --foreground: #f8fafc;
+
+  /* Text Colors - Dark Mode */
+  --text-heading: #f8fafc;
+  /* Slate 100 */
+  --text-body: #cbd5e1;
+  /* Slate 300 */
+  --text-muted: #94a3b8;
+  /* Slate 400 */
+  --text-subtle: #64748b;
+  /* Slate 500 */
+
+  /* Border Colors - Dark Mode */
+  --border: #1e293b;
+  /* Slate 800 */
+  --border-subtle: #0f172a;
+  /* Slate 900 */
 
   /* Modern Professional Palette - Teal & Sky */
   --primary: #2dd4bf;
@@ -12,8 +61,6 @@
   /* Sky 500 */
   --accent: #f43f5e;
   /* Rose 500 */
-
-  scroll-behavior: smooth;
 }
 
 @theme inline {

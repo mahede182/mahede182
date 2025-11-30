@@ -52,6 +52,7 @@ export interface SocialIconsProps {
 export interface SectionHeadingProps {
   title: string;
   subtitle?: string;
+  description?: string;
   className?: string;
   center?: boolean;
 }

@@ -5,6 +5,7 @@ import { Footer } from "~/components/layout/Footer";
 import { StructuredData } from "~/components/seo/StructuredData";
 import { geistMono, geistSans } from "~/constants/metadata.data";
 import { TawkTo } from "~/components/third-party/TawkTo";
+import { ThemeProvider } from "~/components/theme/ThemeProvider";
 
 
 export default function RootLayout({
@@ -18,12 +19,19 @@ export default function RootLayout({
         <StructuredData />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-slate-950 text-slate-50 selection:bg-primary/30 selection:text-primary`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground selection:bg-primary/30 selection:text-primary transition-colors duration-300`}
       >
-        <Navbar />
-        <main className="min-h-screen pt-20">{children}</main>
-        <Footer />
-        <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS || ""} />
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="dark"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <Navbar />
+          <main className="min-h-screen pt-20">{children}</main>
+          <Footer />
+          <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS || ""} />
+        </ThemeProvider>
       </body>
       <TawkTo />
     </html>

@@ -7,15 +7,14 @@ import { TbArrowRight, TbDownload } from "react-icons/tb";
 import Link from "next/link";
 import Image from "next/image";
 import { SocialIcons } from "~/components/ui/SocialIcons";
+import { useScrollTo } from "~/hooks/useScrollTo";
 
-export const HeroSection = React.memo(function HeroSection() {
+export function HeroSection() {
+  const scrollTo = useScrollTo();
+
   const handleScrollToProjects = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
-    const element = document.getElementById("projects");
-    if (element) {
-      element.scrollIntoView({ behavior: "smooth" });
-      window.history.replaceState(null, "", window.location.pathname);
-    }
+    scrollTo("projects");
   };
 
   return (
@@ -39,10 +38,10 @@ export const HeroSection = React.memo(function HeroSection() {
             <p className="text-primary font-medium mb-4 tracking-wide">
               Hi, I am
             </p>
-            <h1 className="text-5xl md:text-7xl font-bold text-slate-100 mb-6">
+            <h1 className="text-5xl md:text-7xl font-bold foreground mb-6">
               {portfolioData.name}
             </h1>
-            <h2 className="text-2xl md:text-4xl text-slate-400 mb-6 bg-gradient-to-r from-slate-100 to-slate-400 bg-clip-text text-transparent font-semibold">
+            <h2 className="text-2xl md:text-4xl text-slate-700 mb-6 bg-gradient-to-r from-slate-100 to-slate-400 bg-clip-text text-transparent font-semibold">
               {portfolioData.role}
             </h2>
 
@@ -88,7 +87,7 @@ export const HeroSection = React.memo(function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/40 to-secondary/40 rounded-[2rem] rotate-6 scale-105 blur-2xl opacity-40 group-hover:opacity-60 transition-all duration-500" />
 
               {/* Second Layer (Rotated Card) */}
-              <div className="absolute inset-0 bg-slate-800/80 backdrop-blur-sm rounded-[2rem] rotate-3 border border-white/10 group-hover:rotate-6 transition-transform duration-500" />
+              <div className="absolute inset-0 backgound backdrop-blur-sm rounded-[2rem] rotate-3 border border-white/10 group-hover:rotate-6 transition-transform duration-500" />
 
               {/* Main Image Container with Gradient Border */}
               <div className="relative w-full h-full rounded-[2rem] p-[2px] bg-gradient-to-br from-primary to-secondary -rotate-3 group-hover:rotate-0 transition-transform duration-500 shadow-2xl">
@@ -116,4 +115,4 @@ export const HeroSection = React.memo(function HeroSection() {
       </div>
     </section>
   );
-});
+}

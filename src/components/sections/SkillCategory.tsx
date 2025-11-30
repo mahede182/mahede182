@@ -14,9 +14,9 @@ const SkillCategory = React.memo(function SkillCategory({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5 }}
-      className="bg-slate-800/30 p-6 rounded-2xl border border-green-800 hover:border-primary/50 transition-colors"
+      className="dark:bg-slate-800/30 background p-6 rounded-2xl border border-slate-800/30 hover:border-primary/50 transition-colors"
     >
-      <h3 className="text-xl font-semibold text-slate-200 mb-4 border-b border-slate-800 pb-2">
+      <h3 className="text-xl font-semibold foreground mb-4 border-b border-slate-800 pb-2">
         {title}
       </h3>
       <div className="flex flex-wrap gap-2">
