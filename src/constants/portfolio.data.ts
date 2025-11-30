@@ -69,7 +69,7 @@ export const portfolioData: PortfolioData = {
         "Developed a comprehensive statistics dashboard, enabling merchants to track sales data and make data-driven decisions.",
         "Created a flexible voucher system that led to an 10% increase in promotional redemption.",
         "Spearheaded the migration from Realm DB to SQLite improving database performance and reducing app size.",
-        "Developedatippingfeaturethatenhancedcustomerengagementandincreasedaveragetransactionvalue.",
+        "Developed a tipping feature that enhanced customer engagement and increased average transaction value.",
         "Actively collaborated with cross-functional teams using well-documented RFC and RCA processes to streamline development and ensure effective problem resolution.",
       ],
     },
@@ -91,7 +91,7 @@ export const portfolioData: PortfolioData = {
       title: "Gontobbo",
       description:
         "A Hotel Booking App.",
-      techStack: ["Expo", "Firebase","Local Storage", "Rest APIs"],
+      techStack: ["Expo", "Firebase", "Local Storage", "Rest APIs"],
       link: "https://github.com/mahede182/gontobbo",
       github: "https://github.com/mahede182/gontobbo",
       thumbnail: "/images/projects/gontobbo.webp",
@@ -100,7 +100,7 @@ export const portfolioData: PortfolioData = {
       title: "Volvet",
       description:
         "Modern E-commerce Platform | Django, PostgreSQL, Function-as-a-Service, pythoneverywhere.",
-      techStack: ["Djanog", "PostgreSQL", "pythoneverywhere", "Bash"],
+      techStack: ["Django", "PostgreSQL", "pythoneverywhere", "Bash"],
       link: "https://mahede182.pythonanywhere.com/",
       github: "https://github.com/mahede182/djEco/tree/main",
       thumbnail: "/images/projects/volvet.webp",

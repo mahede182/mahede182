@@ -95,6 +95,7 @@ export const ContactSection = React.memo(function ContactSection() {
                 href={`mailto:${portfolioData.social
                   .find((s) => s.platform === "Email")
                   ?.url.replace("mailto:", "")}`}
+                rel="noopener noreferrer"
                 className="flex items-center gap-4 text-slate-300 hover:text-primary transition-colors p-4 bg-slate-800/30 rounded-xl border border-slate-800"
               >
                 <div className="bg-primary/10 p-3 rounded-full text-primary">
