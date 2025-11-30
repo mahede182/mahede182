@@ -8,6 +8,9 @@ const nextConfig: NextConfig = {
   experimental: {
     optimizePackageImports: ["react-icons", "framer-motion"]
   },
+  images: {
+    unoptimized: true,
+  }
 };
 
 export default nextConfig;
