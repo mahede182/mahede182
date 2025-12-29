@@ -106,13 +106,13 @@ export const portfolioData: PortfolioData = {
       thumbnail: "/images/projects/volvet.webp",
     },
     {
-      title: "Lendora",
+      title: "Property Pulse",
       description:
-        "Lendora is a real estate platform that connects borrowers with lenders to facilitate loan transactions.",
+        "Property Pulse is a real estate platform that connects borrowers with lenders to facilitate loan transactions.",
       techStack: ["Nest JS", "Prisma", "React Native", "Expo"],
       link: "https://github.com/mahede182/real-estate-assessment",
       github: "https://github.com/mahede182/real-estate-assessment",
-      thumbnail: "/images/projects/lendora.webp",
+      thumbnail: "/images/projects/Property Pulse.webp",
     },
 
   ],
