@@ -90,11 +90,38 @@ export const portfolioData: PortfolioData = {
     {
       title: "Gontobbo",
       description:
-        "A Hotel Booking App.",
-      techStack: ["Expo", "Firebase", "Local Storage", "Rest APIs"],
+        "An AI-powered full-stack travel platform utilizing Google Gemini and RAG (Retrieval-Augmented Generation) for intelligent travel planning. Built with a Monorepo architecture for seamless mobile and web integration.",
+      techStack: ["TurboRepo", "Gemini AI", "React Native", "Express", "Docker"],
       link: "https://github.com/mahede182/gontobbo",
       github: "https://github.com/mahede182/gontobbo",
       thumbnail: "/images/projects/gontobbo.webp",
+    },
+    {
+      title: "Omnidev Scanner",
+      description:
+        "A robust utility scanner with integrated CI/CD pipelines and Supabase backend. Built to demonstrate automated testing and cloud-native database management.",
+      techStack: ["Supabase", "Vercel", "Docker", "GitHub Actions"],
+      link: "https://github.com/mahede182/omnidevScanner",
+      github: "https://github.com/mahede182/omnidevScanner",
+      thumbnail: "/images/projects/lendora.webp", // Placeholder
+    },
+    {
+      title: "Bswap Exchange",
+      description:
+        "A decentralized exchange (DEX) proof-of-concept showing technical versatility with Ethereum DApps, Smart Contracts, and Metamask integration.",
+      techStack: ["Ethereum", "Solidity", "Metamask", "React"],
+      link: "https://github.com/mahede182/cryptocurrencies_exchange_system",
+      github: "https://github.com/mahede182/cryptocurrencies_exchange_system",
+      thumbnail: "/images/projects/volvet.webp", // Placeholder
+    },
+    {
+      title: "techzuSocial",
+      description:
+        "A lightweight social media application built with a Node.js/Express backend and a React Native (Expo) mobile client.",
+      techStack: ["Node.js", "Express", "MongoDB", "Firebase", "React Native", "Expo"],
+      link: "https://techzusocial.onrender.com",
+      github: "https://github.com/mahede182/techzuSocial",
+      thumbnail: "/images/projects/gontobbo.webp", // Placeholder
     },
     {
       title: "Volvet",
@@ -114,6 +141,5 @@ export const portfolioData: PortfolioData = {
       github: "https://github.com/mahede182/real-estate-assessment",
       thumbnail: "/images/projects/lendora.webp",
     },
-
   ],
 };

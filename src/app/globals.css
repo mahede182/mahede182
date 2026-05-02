@@ -1,34 +1,40 @@
 @import "tailwindcss";
 
 :root {
-  /* Light Mode Defaults */
-  --background: #ffffff;
+  /* Premium Light Mode Palette */
+  --background: #fcfcfd;
   --foreground: #0f172a;
-  /* Slate 900 */
+
+  /* Card & Surface */
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --popover: #ffffff;
+  --popover-foreground: #0f172a;
 
   /* Text Colors - Light Mode */
   --text-heading: #1e293b;
-  /* Slate 800 */
   --text-body: #475569;
-  /* Slate 600 */
   --text-muted: #64748b;
-  /* Slate 500 */
   --text-subtle: #94a3b8;
-  /* Slate 400 */
 
-  /* Border Colors - Light Mode */
+  /* Border & Input */
   --border: #e2e8f0;
-  /* Slate 200 */
   --border-subtle: #f1f5f9;
-  /* Slate 100 */
+  --input: #f1f5f9;
+  --ring: #0d9488;
 
   /* Modern Professional Palette - Teal & Sky */
   --primary: #0d9488;
-  /* Teal 600 - Darker for light mode contrast */
+  --primary-foreground: #ffffff;
   --secondary: #0284c7;
-  /* Sky 600 */
+  --secondary-foreground: #ffffff;
   --accent: #e11d48;
-  /* Rose 600 */
+  --accent-foreground: #ffffff;
+
+  /* Scrollbar */
+  --scrollbar-track: #f1f5f9;
+  --scrollbar-thumb: #cbd5e1;
+  --scrollbar-thumb-hover: #94a3b8;
 
   scroll-behavior: smooth;
 }
@@ -38,42 +44,63 @@
   --background: #020617;
   --foreground: #f8fafc;
 
+  /* Card & Surface */
+  --card: #0f172a;
+  --card-foreground: #f8fafc;
+  --popover: #0f172a;
+  --popover-foreground: #f8fafc;
+
   /* Text Colors - Dark Mode */
   --text-heading: #f8fafc;
-  /* Slate 100 */
   --text-body: #cbd5e1;
-  /* Slate 300 */
   --text-muted: #94a3b8;
-  /* Slate 400 */
   --text-subtle: #64748b;
-  /* Slate 500 */
 
-  /* Border Colors - Dark Mode */
+  /* Border & Input */
   --border: #1e293b;
-  /* Slate 800 */
   --border-subtle: #0f172a;
-  /* Slate 900 */
+  --input: #1e293b;
+  --ring: #2dd4bf;
 
   /* Modern Professional Palette - Teal & Sky */
   --primary: #2dd4bf;
-  /* Teal 400 */
+  --primary-foreground: #020617;
   --secondary: #0ea5e9;
-  /* Sky 500 */
+  --secondary-foreground: #020617;
   --accent: #f43f5e;
-  /* Rose 500 */
+  --accent-foreground: #ffffff;
+
+  /* Scrollbar */
+  --scrollbar-track: #0f172a;
+  --scrollbar-thumb: #334155;
+  --scrollbar-thumb-hover: #475569;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
   --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
   --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-border-subtle: var(--border-subtle);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-text-heading: var(--text-heading);
+  --color-text-body: var(--text-body);
+  --color-text-muted: var(--text-muted);
+  --color-text-subtle: var(--text-subtle);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-/* Enforce dark mode styles always */
 html {
   overflow-x: hidden;
 }
@@ -92,20 +119,20 @@ body {
   scroll-margin-top: 80px;
 }
 
-/* Custom Scrollbar */
+/* Theme-aware Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #0f172a;
+  background: var(--scrollbar-track);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #334155;
+  background: var(--scrollbar-thumb);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #475569;
+  background: var(--scrollbar-thumb-hover);
 }

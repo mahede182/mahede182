@@ -40,7 +40,7 @@ export function SocialIcons({
               href={link.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-slate-400 hover:text-primary transition-colors"
+              className="text-text-muted hover:text-primary transition-colors"
               aria-label={link.platform}
             >
               <Icon size={22} />
@@ -55,7 +55,7 @@ export function SocialIcons({
             href={link.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-12 h-12 rounded-full border-2 border-slate-700 flex items-center justify-center text-slate-400 hover:text-primary hover:border-primary transition-all"
+            className="w-12 h-12 rounded-full border border-border flex items-center justify-center text-text-muted hover:text-primary hover:border-primary hover:bg-primary/5 transition-all"
             aria-label={link.platform}
           >
             <Icon size={22} />

@@ -4,13 +4,13 @@ import { cn } from '~/lib/utils';
 export function SectionHeading({ title, subtitle, className, center = false }: SectionHeadingProps) {
   return (
     <div className={cn("mb-12", center && "text-center", className)}>
-      <h2 className="text-3xl md:text-4xl font-bold text-slate-100 mb-4">
+      <h2 className="text-3xl md:text-4xl font-bold text-text-heading mb-4">
         <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
           {title}
         </span>
       </h2>
       {subtitle && (
-        <p className={cn("text-slate-400 text-lg max-w-2xl", center && "mx-auto")}>
+        <p className={cn("text-text-body text-lg max-w-2xl", center && "mx-auto")}>
           {subtitle}
         </p>
       )}

@@ -41,11 +41,11 @@ export function HeroSection() {
             <h1 className="text-5xl md:text-7xl font-bold foreground mb-6">
               {portfolioData.name}
             </h1>
-            <h2 className="text-2xl md:text-4xl text-slate-700 mb-6 bg-gradient-to-r from-slate-100 to-slate-400 bg-clip-text text-transparent font-semibold">
+            <h2 className="text-2xl md:text-4xl text-text-body mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent font-semibold">
               {portfolioData.role}
             </h2>
 
-            <p className="text-lg text-slate-400 mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0 text-justify lg:text-left">
+            <p className="text-lg text-text-body mb-8 leading-relaxed max-w-2xl mx-auto lg:mx-0 text-justify lg:text-left">
               {portfolioData.about}
             </p>
 
@@ -58,7 +58,7 @@ export function HeroSection() {
                 <Link
                   href="#projects"
                   onClick={handleScrollToProjects}
-                  className="w-42 px-8 py-3 border-2 border-primary text-primary font-bold rounded-full hover:bg-primary/10 transition-all flex items-center justify-center gap-2"
+                  className="px-8 py-3 bg-primary text-primary-foreground font-bold rounded-full hover:shadow-lg hover:shadow-primary/20 transition-all flex items-center justify-center gap-2"
                 >
                   Projects <TbArrowRight size={20} />
                 </Link>
@@ -67,7 +67,7 @@ export function HeroSection() {
                   href="/files/resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-42 px-8 py-3 border-2 border-slate-700 text-slate-300 font-bold rounded-full hover:bg-slate-800 transition-all flex items-center justify-center gap-2"
+                  className="px-8 py-3 border-2 border-border text-text-heading font-bold rounded-full hover:bg-border/50 transition-all flex items-center justify-center gap-2"
                 >
                   Resume <TbDownload size={20} />
                 </Link>
@@ -82,31 +82,26 @@ export function HeroSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="flex-1 flex justify-center lg:justify-end"
           >
-            <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 group perspective-1000">
+            <div className="relative w-64 md:w-80 lg:w-96 group perspective-1000">
               {/* Deep Glow Background */}
-              <div className="absolute inset-0 bg-gradient-to-tr from-primary/40 to-secondary/40 rounded-[2rem] rotate-6 scale-105 blur-2xl opacity-40 group-hover:opacity-60 transition-all duration-500" />
-
-              {/* Second Layer (Rotated Card) */}
-              <div className="absolute inset-0 backgound backdrop-blur-sm rounded-[2rem] rotate-3 border border-white/10 group-hover:rotate-6 transition-transform duration-500" />
+              <div className="absolute inset-0 bg-gradient-to-tr from-primary/30 to-secondary/30 rounded-[2rem] rotate-6 scale-105 blur-2xl opacity-30 group-hover:opacity-50 transition-all duration-500" />
 
               {/* Main Image Container with Gradient Border */}
-              <div className="relative w-full h-full rounded-[2rem] p-[2px] bg-gradient-to-br from-primary to-secondary -rotate-3 group-hover:rotate-0 transition-transform duration-500 shadow-2xl">
-                <div className="w-full h-full rounded-[calc(2rem-2px)] overflow-hidden bg-slate-900 relative">
-                  {/* Use a placeholder if image fails or is missing */}
-                  <div className="w-full h-full flex items-center justify-center text-slate-500 bg-slate-800 relative">
-                    <Image
-                      src={portfolioData.profileImage}
-                      alt={portfolioData.name}
-                      fill
-                      sizes="(max-width: 768px) 256px, (max-width: 1024px) 320px, 384px"
-                      className="object-cover transition-transform duration-700 group-hover:scale-110"
-                      priority
-                      onError={(e) => {
-                        const target = e.target as HTMLImageElement;
-                        target.style.display = "none";
-                      }}
-                    />
-                  </div>
+              <div className="relative w-full rounded-[2rem] p-[2px] bg-gradient-to-br from-primary/50 to-secondary/50 -rotate-3 group-hover:rotate-0 transition-transform duration-500 shadow-xl overflow-hidden">
+                <div className="w-full rounded-[calc(2rem-2px)] overflow-hidden bg-card relative aspect-[4/5]">
+                  <Image
+                    src={portfolioData.profileImage}
+                    alt={portfolioData.name}
+                    width={500}
+                    height={625}
+                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                    priority
+                    sizes="(max-width: 768px) 256px, (max-width: 1024px) 320px, 384px"
+                    onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      target.style.display = "none";
+                    }}
+                  />
                 </div>
               </div>
             </div>

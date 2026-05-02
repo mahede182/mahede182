@@ -58,14 +58,14 @@ export function ContactForm() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
-            className="background p-4 rounded-2xl border border-slate-800"
+            className="bg-card p-6 rounded-2xl border border-border shadow-lg"
         >
-            <form className="space-y-4" onSubmit={handleSubmit}>
-                <div className="grid grid-cols-2 gap-6">
+            <form className="space-y-6" onSubmit={handleSubmit}>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                     <div>
                         <label
                             htmlFor="name"
-                            className="block text-sm font-medium foreground mb-2"
+                            className="block text-sm font-medium text-text-heading mb-2"
                         >
                             Name
                         </label>
@@ -77,7 +77,7 @@ export function ContactForm() {
                             onChange={(e) =>
                                 setFormData({ ...formData, name: e.target.value })
                             }
-                            className="w-full h-14 background border border-slate-800 rounded-lg px-4 py-2 text-body focus:outline-none focus:border-primary transition-colors"
+                            className="w-full h-12 bg-input border border-border rounded-lg px-4 text-text-body focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all placeholder:text-text-subtle"
                             placeholder="John Doe"
                         />
                     </div>
@@ -85,7 +85,7 @@ export function ContactForm() {
                     <div>
                         <label
                             htmlFor="email"
-                            className="block text-sm font-medium foreground mb-2"
+                            className="block text-sm font-medium text-text-heading mb-2"
                         >
                             Email
                         </label>
@@ -97,7 +97,7 @@ export function ContactForm() {
                             onChange={(e) =>
                                 setFormData({ ...formData, email: e.target.value })
                             }
-                            className="w-full h-14 background border border-slate-800 rounded-lg px-4 py-2 text-body focus:outline-none focus:border-primary transition-colors"
+                            className="w-full h-12 bg-input border border-border rounded-lg px-4 text-text-body focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all placeholder:text-text-subtle"
                             placeholder="john@example.com"
                         />
                     </div>
@@ -106,7 +106,7 @@ export function ContactForm() {
                 <div>
                     <label
                         htmlFor="message"
-                        className="block text-sm font-medium foreground mb-2"
+                        className="block text-sm font-medium text-text-heading mb-2"
                     >
                         Message
                     </label>
@@ -118,7 +118,7 @@ export function ContactForm() {
                             setFormData({ ...formData, message: e.target.value })
                         }
                         rows={4}
-                        className="w-full background border border-slate-800 rounded-lg px-4 py-3 text-body focus:outline-none focus:border-primary transition-colors resize-none"
+                        className="w-full bg-input border border-border rounded-lg px-4 py-3 text-text-body focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all resize-none placeholder:text-text-subtle"
                         placeholder="Tell me about your project..."
                     />
                 </div>

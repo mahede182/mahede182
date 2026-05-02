@@ -9,14 +9,14 @@ import { CiLocationOn } from "react-icons/ci";
 
 export const ExperienceSection = React.memo(function ExperienceSection() {
   return (
-    <div className="h-full bg-white-400">
+    <div className="h-full">
       <SectionHeading
         title="Experience"
         subtitle="My professional journey"
         center={false}
       />
 
-      <div className="relative border-l-2 border-slate-800 ml-4 pl-8 space-y-4">
+      <div className="relative border-l-2 border-border ml-4 pl-8 space-y-4">
         {portfolioData.experience.map((exp, index) => (
           <motion.div
             key={index}
@@ -27,23 +27,23 @@ export const ExperienceSection = React.memo(function ExperienceSection() {
             className="relative"
           >
             {/* Timeline Dot */}
-            <span className="absolute -left-[41px] top-0 h-5 w-5 rounded-full bg-slate-950 border-2 border-primary" />
+            <span className="absolute -left-[41px] top-0 h-5 w-5 rounded-full bg-card border-2 border-primary shadow-sm" />
 
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2">
-              <h3 className="text-xl font-bold foreground">{exp.role}</h3>
+              <h3 className="text-xl font-bold text-text-heading">{exp.role}</h3>
               <span className="text-sm text-primary font-medium bg-primary/10 px-3 py-1 rounded-full w-fit mt-2 sm:mt-0">
                 {exp.period}
               </span>
             </div>
 
-            <div className="flex items-center gap-2 mb-4 text-slate-400">
+            <div className="flex items-center gap-2 mb-4 text-text-muted">
               <TbBriefcase size={16} />
               <span className="font-medium">{exp.company}</span>
               <CiLocationOn size={16} />
               <span className="font-medium">{exp.location}</span>
             </div>
 
-            <ul className="list-disc list-outside ml-4 text-slate-400">
+            <ul className="list-disc list-outside ml-4 text-text-body space-y-2">
               {exp.description.map((desc, i) => (
                 <li key={i}>{desc}</li>
               ))}

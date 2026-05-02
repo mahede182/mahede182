@@ -73,10 +73,10 @@ export function Navbar() {
   return (
     <header
       className={cn(
-        "fixed top-0 w-full z-50 transition-all duration-300 border-b border-transparent",
+        "fixed top-0 w-full z-50 transition-all duration-300 border-b",
         isScrolled
-          ? "bg-background backdrop-blur-md border-white/5 shadow-sm"
-          : "bg-transparent"
+          ? "bg-background/80 backdrop-blur-md border-border shadow-sm"
+          : "bg-transparent border-transparent"
       )}
     >
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
@@ -101,7 +101,7 @@ export function Navbar() {
                   "text-sm font-medium transition-colors relative",
                   isActive
                     ? "text-primary"
-                    : "text-slate-300 hover:text-primary"
+                    : "text-text-muted hover:text-primary"
                 )}
               >
                 {link.name}
@@ -120,7 +120,7 @@ export function Navbar() {
               href={portfolioData.blogUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm font-medium text-slate-300 hover:text-primary transition-colors relative"
+              className="text-sm font-medium text-text-muted hover:text-primary transition-colors relative"
             >
               Blog
             </a>
@@ -130,8 +130,9 @@ export function Navbar() {
 
         {/* Mobile Menu Toggle */}
         <button
-          className="md:hidden text-slate-300 hover:text-white"
+          className="md:hidden text-text-muted hover:text-foreground transition-colors"
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          aria-label="Toggle mobile menu"
         >
           {isMobileMenuOpen ? <TbX size={24} /> : <TbMenu2 size={24} />}
         </button>
@@ -143,7 +144,7 @@ export function Navbar() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -20 }}
-          className="md:hidden absolute top-full left-0 w-full bg-slate-950/95 backdrop-blur-lg border-b border-white/5"
+          className="md:hidden absolute top-full left-0 w-full bg-background/95 backdrop-blur-lg border-b border-border shadow-xl"
         >
           <nav className="flex flex-col p-6 gap-4">
             {navLinks.map((link) => {
@@ -156,7 +157,7 @@ export function Navbar() {
                     "text-lg font-medium transition-colors",
                     isActive
                       ? "text-primary"
-                      : "text-heading hover:text-primary"
+                      : "text-text-heading hover:text-primary"
                   )}
                   onClick={(e) => handleNavClick(e, link.href)}
                 >
@@ -169,13 +170,13 @@ export function Navbar() {
                 href={portfolioData.blogUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-lg font-medium text-slate-300 hover:text-primary transition-colors"
+                className="text-lg font-medium text-text-muted hover:text-primary transition-colors"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 Blog
               </a>
             )}
-            <div className="pt-4 border-t border-slate-800/50 flex justify-start">
+            <div className="pt-4 border-t border-border flex justify-start">
               <ThemeToggle />
             </div>
           </nav>
