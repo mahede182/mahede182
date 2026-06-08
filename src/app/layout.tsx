@@ -5,6 +5,7 @@ import { Footer } from "~/components/layout/Footer";
 import { StructuredData } from "~/components/seo/StructuredData";
 import { geistMono, geistSans } from "~/constants/metadata.data";
 import { TawkTo } from "~/components/third-party/TawkTo";
+import { MicrosoftClarity } from "~/components/third-party/MicrosoftClarity";
 import { ThemeProvider } from "~/components/theme/ThemeProvider";
 
 
@@ -34,6 +35,7 @@ export default function RootLayout({
         </ThemeProvider>
       </body>
       <TawkTo />
+      <MicrosoftClarity />
     </html>
   );
 }
